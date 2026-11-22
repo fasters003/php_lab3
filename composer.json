@@ -1,11 +1,11 @@
 {
-    "name": "urfu/LastName",
-    "type": "project",
-    "description": "LabWork",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "App\\\\": "src/"
-        }
+  "name": "urfu/lab3",
+  "type": "project",
+  "description": "LabWork",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
     }
+  }
 }
